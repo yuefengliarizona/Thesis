@@ -1,0 +1,4 @@
+mask=3
+model=20
+model_46_last train
+MBIN number=32

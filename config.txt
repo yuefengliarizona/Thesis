@@ -1,0 +1,7 @@
+mask size =3
+MBIN node number=32
+learning rate=0.0001
+L2-regulization=0.000001
+NeedDownload=0
+Minimum train epoches=30
+early stopping range=5

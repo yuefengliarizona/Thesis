@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (MaskGraph)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1972" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/Mask1.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2751" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/example.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="43873" />
+          <option name="fileUrl" value="file:///usr/local/lib64/python3.8/site-packages/torch/nn/modules/module.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="374" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/test1.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1972" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/test2.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1653" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/classify.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1572" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/simplemodel.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
